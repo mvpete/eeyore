@@ -1,6 +1,6 @@
 # eeyore
 Elements of Reusable Software
-![Eeyore](https://github.com/mvpete/eeyore/blob/main/eeyore-head.png)
+![Eeyore](https://github.com/mvpete/eeyore/blob/main/eeyore-head.png=75x75)
 
 
 ## Abstract Factory
